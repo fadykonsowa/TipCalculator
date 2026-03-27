@@ -8,3 +8,5 @@ Good: tip 10%
 Poor: tip 5%
 Terrible: tip 0%
 from Invoice value
+
+https://www.youtube.com/watch?v=e2XTvFlaP58
